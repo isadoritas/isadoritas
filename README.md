@@ -6,6 +6,8 @@ I'm a Computer Science student currently studying Java. I'm a dedicated and pass
 <div>
 <a href="https://github.com/isadoritas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoritas&layout=compact&langs_count=7&theme=dracula"/>
+  
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
