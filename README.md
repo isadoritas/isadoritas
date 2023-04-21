@@ -10,17 +10,14 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xisadoritas/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xisadoritas/0xisadoritas/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A hard-worker computer's science student
-- For more girls in tech!
-- Currently learning Java
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/isadora-rodrigues-904b36164/)
+I'm a Computer Science student currently studying Java. I'm a dedicated and passionate learner who is always eager to acquire new knowledge and skills. I'm also open to exploring new opportunities for internships that will allow me to apply my knowledge and gain valuable experience in the field.
+This is [my resume](https://www.linkedin.com/in/isadora-rodrigues-904b36164/)
 
 <br><br>
 
