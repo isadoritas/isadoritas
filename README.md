@@ -32,4 +32,4 @@ I'm a Computer Science student currently studying Java. I'm a dedicated and pass
 
 Feel free to reach out to me if you have any questions or if you are interested in connecting with me. I'm always looking forward to meeting new people and learning from them!
   
-  <div class="tenor-gif-embed" data-postid="24767287" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287">Diegodrawsart Women And Girls In Science Sticker</a>from <a href="https://tenor.com/search/diegodrawsart-stickers">Diegodrawsart Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <div class="tenor-gif-embed" data-postid="24767287" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767287">Diegodrawsart Women And Girls In Science Sticker</a>from <a href="https://tenor.com/search/diegodrawsart-stickers">Diegodrawsart Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
