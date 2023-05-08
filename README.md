@@ -19,12 +19,7 @@ I'm a Computer Science student currently studying Java. I'm a dedicated and pass
 ## 🌱 Currently Learning
 - Java and its related technologies
 - Data Structures and Algorithim
-
-
-## 💼 Skills
-- Intermediate in Python
-- Experience with Git and GitHub
-- Familiarity with SQL and databases
+- SQL and databases
 
 ## 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/isadora-rodrigues-904b36164/
