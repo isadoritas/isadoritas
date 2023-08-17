@@ -1,6 +1,6 @@
 # Hi there, I'm Isadora! 👋
 
-I'm a Computer Science student currently studying Java. I'm a dedicated and passionate learner who is always eager to acquire new knowledge and skills. I'm also open to exploring new opportunities for internships that will allow me to apply my knowledge and gain valuable experience in the field.
+I'm a Computer Science student currently studying Web Development. I'm a dedicated and passionate learner who is always eager to acquire new knowledge and skills. I'm also open to exploring new opportunities for internships that will allow me to apply my knowledge and gain valuable experience in the field.
 
 
 <div>
@@ -13,13 +13,11 @@ I'm a Computer Science student currently studying Java. I'm a dedicated and pass
 </div>
 
 ## 🔭 Current Focus
-- Learning Java and its related technologies
 - Exploring various computer science topics to expand my knowledge
 
 ## 🌱 Currently Learning
-- Java and its related technologies
-- Data Structures and Algorithim
-- SQL and databases
+- HTML, CSS, and JavaScript
+
 
 ## 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/isadora-rodrigues-904b36164/
