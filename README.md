@@ -9,8 +9,7 @@ I'm a Computer Science student currently studying Web Development. I'm a dedicat
   
   
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoritas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  
 
 ## 🔭 Current Focus
 - Exploring various computer science topics to expand my knowledge
