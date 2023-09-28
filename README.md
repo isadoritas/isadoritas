@@ -15,7 +15,7 @@ I'm a Computer Science student currently studying Web Development. I'm a dedicat
 - Exploring various computer science topics to expand my knowledge
 
 ## 🌱 Currently Learning
-- HTML, CSS, and JavaScript
+- HTML, CSS, JavaScript and Ruby
 
 
 ## 🤝 Connect with Me
