@@ -1,6 +1,6 @@
 # Hi there, I'm Isadora! 👋
 
-I'm a Computer Science student currently studying Web Development. I'm a dedicated and passionate learner who is always eager to acquire new knowledge and skills. I'm also open to exploring new opportunities for internships that will allow me to apply my knowledge and gain valuable experience in the field.
+I'm a Computer Science student currently studying Web Development. I'm a dedicated and passionate learner who is always eager to acquire new knowledge and skills
 
 
 <div>
